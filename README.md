@@ -22,14 +22,5 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=FAFAFA"/>
   <img src="https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=FAFAFA"/>
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=FAFAFA"/>
-  
-  <br>
-  <br>
-  <br>
-  <br>
-  
-  ## 📱 SNS & Contact 📱
-  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&link=https://velog.io/@junnn0021&logo=Velog&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&link=https://instagram.com/js.xee?igshid=YmMyMTA2M2Y=&logo=Instagram&logoColor=FAFAFA"/>
-  
+
 </div>
