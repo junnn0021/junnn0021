@@ -22,5 +22,18 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=FAFAFA"/>
   <img src="https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=FAFAFA"/>
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=FAFAFA"/>
-
+  <br>
+  <br>
+  <br>
+  
+  ## 📱 SNS & Blog 📱
+  <a href="https://www.instagram.com/js.xee/">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=FAFAFA&link=https://www.instagram.com/js.xee/"/>
+  </a>
+  <a href="https://velog.io/@junnn0021">
+    <img 
+        src="http://img.shields.io/badge/-Velog-20C997?style=flat-square&logo=Velog&logoColor=000000&link=https://velog.io/@junnn0021"/>
+  </a>
+  
 </div>
