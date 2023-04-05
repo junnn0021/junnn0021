@@ -36,14 +36,5 @@
     <img 
         src="http://img.shields.io/badge/-Velog-20C997?style=flat-square&logo=Velog&logoColor=000000&link=https://velog.io/@junnn0021"/>
   </a>
-  
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
- 
-  ![junnn0021's GitHub stats](https://github-readme-stats.vercel.app/api?username=junnn0021&show_icons=true&theme=dark)
-  
+
 </div>
