@@ -46,13 +46,14 @@
   <br>
   <br>
 
-  <p float="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junnn0021&layout=compact" style="width:33%;height:auto;">
-    <img src="https://github-readme-stats.vercel.app/api?username=junnn0021&show_icons=true" style="width:33%;height:auto;">
-    <a href="https://solved.ac/junnn0021">
-      <img src="http://mazassumnida.wtf/api/generate_badge?boj=junnn0021" alt="solved.ac profile" style="width:33%;height:auto;">
-    </a>
-  </p>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; margin: 20px 0;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junnn0021&layout=compact" style="width: 32%; max-width: 350px; margin-bottom: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=junnn0021&show_icons=true" style="width: 32%; max-width: 350px; margin-bottom: 20px;">
+  <a href="https://solved.ac/junnn0021">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=junnn0021" alt="solved.ac profile" style="width: 32%; max-width: 350px; margin-bottom: 20px;">
+  </a>
+</div>
+
 
 </div>
 
