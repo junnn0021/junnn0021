@@ -37,7 +37,7 @@
   </a>
   <a href="https://velog.io/@junnn0021">
     <img 
-        src="http://img.shields.io/badge/-Velog-20C997?style=flat-square&logo=Velog&logoColor=000000&link=https://velog.io/@junnn0021"/>
+        src="http://img.shields.io/badge/-Velog-20C997?style=flat-square&logo=Velog&logoColor=FAFAFA&link=https://velog.io/@junnn0021"/>
   </a>
   
   <br>
