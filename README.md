@@ -24,6 +24,8 @@
   <img src="https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=FAFAFA"/>
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=FAFAFA"/>
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=FAFAFA"/>
+  
+  <br>
   <br>
   <br>
 
@@ -40,9 +42,18 @@
   <br>
   <br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junnn0021&layout=compact">
-  <img src="https://github-readme-stats.vercel.app/api?username=junnn0021&show_icons=true">
+
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junnn0021&layout=compact" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=junnn0021&show_icons=true" height="150">
+  <a href="https://solved.ac/junnn0021">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=junnn0021" alt="solved.ac profile" height="150">
+  </a>
+</p>
+
+</div>
+
 
 
   
-</div>
+
