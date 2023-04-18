@@ -30,18 +30,20 @@
   <br>
 
   
-<!--   ## 📱 SNS & Blog 📱
-  <a href="https://www.instagram.com/js.xee/">
+  ## 📱 Blog 📱
+  <a href="https:junnn0021.github.io">
     <img 
-        src="http://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=FAFAFA&link=https://www.instagram.com/js.xee/"/>
+        src="http://img.shields.io/badge/-GitHub.io-222222?style=flat-square&logo=github&logoColor=FAFAFA&link=https://www.instagram.com/js.xee/"/>
   </a>
   <a href="https://velog.io/@junnn0021">
     <img 
         src="http://img.shields.io/badge/-Velog-20C997?style=flat-square&logo=Velog&logoColor=000000&link=https://velog.io/@junnn0021"/>
-  </a> -->
-  <br>
-  <br>
+  </a>
   
+  <br>
+  <br>
+  <br>
+  <br>
 
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junnn0021&layout=compact" width="33%">
