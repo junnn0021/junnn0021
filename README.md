@@ -41,13 +41,13 @@
   </a> -->
   <br>
   <br>
-
+  
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junnn0021&layout=compact" height="150">
-  <img src="https://github-readme-stats.vercel.app/api?username=junnn0021&show_icons=true" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junnn0021&layout=compact" width="33%" height="100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=junnn0021&show_icons=true" width="33%" height="100%">
   <a href="https://solved.ac/junnn0021">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=junnn0021" alt="solved.ac profile" height="150">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=junnn0021" alt="solved.ac profile" width="33%" height="100%">
   </a>
 </p>
 
