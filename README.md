@@ -31,7 +31,7 @@
 
   
   ## 📱 Blog 📱
-  <a href="https:junnn0021.github.io">
+  <a href="https://junnn0021.github.io/">
     <img 
         src="http://img.shields.io/badge/-GitHub.io-222222?style=flat-square&logo=github&logoColor=FAFAFA&link=https://www.instagram.com/js.xee/"/>
   </a>
