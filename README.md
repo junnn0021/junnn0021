@@ -40,20 +40,29 @@
         src="http://img.shields.io/badge/-Velog-20C997?style=flat-square&logo=Velog&logoColor=FAFAFA&link=https://velog.io/@junnn0021"/>
   </a>
   
-  <br>
-  <br>
-  <br>
-  <br>
-
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junnn0021&layout=compact" width="33%">
-  <img src="https://github-readme-stats.vercel.app/api?username=junnn0021&show_icons=true" width="33%">
-  <a href="https://solved.ac/junnn0021">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=junnn0021" alt="solved.ac profile" width="33%">
-  </a>
-</p>
-
 </div>
+
+  <br>
+  <br>
+  <br>
+  <br>
+
+<div style="white-space: nowrap">
+  <div style="display: inline-block; width: 33%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junnn0021&layout=compact">
+  </div>
+  <div style="display: inline-block; width: 33%">
+    <img src="https://github-readme-stats.vercel.app/api?username=junnn0021&show_icons=true">
+  </div>
+  <div style="display: inline-block; width: 33%">
+    <a href="https://solved.ac/junnn0021">
+      <img src="http://mazassumnida.wtf/api/generate_badge?boj=junnn0021" alt="solved.ac profile">
+    </a>
+  </div>
+</div>
+
+
+
 
 
 
