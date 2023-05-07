@@ -3,7 +3,7 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&text=Welcome%20to%20Junnn0021's%20GitHub%20😀&animation=twinkling&fontSize=48&fontAlignY=30&fontAlign=50&height=160)
   #### 반갑습니다! 🙌
   #### 저는 DevOps를 즐기며 배우고 있는 이준석입니다!
-  #### 항상 새로운 것을 두려워하지 않고 배우려는 자세로 성실히 임하고 있습니다.
+  #### 항상 새로운 것을 두려워하지 않고 배우려는 자세로 성실히 임하겠습다.
   
   <br>
   
