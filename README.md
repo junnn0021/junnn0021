@@ -50,14 +50,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junnn0021&layout=compact" style="width: 32%; max-width: 350px; margin-bottom: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=junnn0021&show_icons=true" style="width: 32%; max-width: 350px; margin-bottom: 20px;">
   <a href="https://solved.ac/junnn0021">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=junnn0021" alt="solved.ac profile" style="width: 32%; max-width: 350px; margin-bottom: 20px;">
-  </a>
-</div>
-  
-
-
-
-
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=junnn0021" alt="solved.ac profile" style="width: 32%; max-width: 350px; margin-bot
 
 
   
