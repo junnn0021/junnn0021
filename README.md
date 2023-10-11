@@ -8,7 +8,7 @@
   
   <br>
   
-  ## 🛠 I've ever used 🛠
+ ## I've ever used
   <img src="https://img.shields.io/badge/AWS-232F3E?style=stylefor-the-badge&logo=Amazon AWS&logoColor=FAFAFA"/>
   <img src="https://img.shields.io/badge/GCP-4285F4?stylefor-the-badge&logo=Google Cloud&logoColor=FAFAFA"/>
   <img src="https://img.shields.io/badge/Apache-D22128?stylefor-the-badge&logo=Apache&logoColor=FAFAFA"/>
@@ -35,7 +35,7 @@
   <br>
 
   
-  ## 📱 Blog 📱
+  ## Blog
   <a href="https://junnn0021.github.io/">
     <img 
         src="http://img.shields.io/badge/-GitHub.io-222222?style=flat-square&logo=github&logoColor=FAFAFA&link=https://www.instagram.com/js.xee/"/>
