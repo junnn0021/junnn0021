@@ -15,6 +15,8 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=stylefor-the-badge&logo=Docker&logoColor=FAFAFA"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=stylefor-the-badge&logo=Kubernetes&logoColor=FAFAFA"/>
   <img src="https://img.shields.io/badge/Fastify-000000?style=stylefor-the-badge&logo=Fastify&logoColor=FAFAFA"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=stylefor-the-badge&logo=Express&logoColor=FAFAFA"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=stylefor-the-badge&logo=Postman&logoColor=FAFAFA"/>
   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=stylefor-the-badge&logo=GitHub Actions&logoColor=FAFAFA"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=stylefor-the-badge&logo=Grafana&logoColor=FAFAFA"/>
   <br>
