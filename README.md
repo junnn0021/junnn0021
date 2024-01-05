@@ -69,6 +69,7 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=junnn0021" alt="solved.ac profile" style="width: 32%; max-width: 350px; margin-bottom: 20px;">
 
 
+
   
 
 </div>
