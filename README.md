@@ -37,11 +37,11 @@
   ## Blog
   <a href="https://junnn0021.github.io/">
     <img 
-        src="http://img.shields.io/badge/-GitHub.io-222222?style=flat-square&logo=github&logoColor=FAFAFA&link=https://www.instagram.com/js.xee/"/>
+        src="http://img.shields.io/badge/-GitHub.io-222222?style=stylefor-the-badge&logo=github&logoColor=FAFAFA&link=https://www.instagram.com/js.xee/"/>
   </a>
   <a href="https://velog.io/@junnn0021">
     <img 
-        src="http://img.shields.io/badge/-Velog-20C997?style=flat-square&logo=Velog&logoColor=FAFAFA&link=https://velog.io/@junnn0021"/>
+        src="http://img.shields.io/badge/-Velog-20C997?style=stylefor-the-badge&logo=Velog&logoColor=FAFAFA&link=https://velog.io/@junnn0021"/>
   </a>
 
  
