@@ -39,6 +39,7 @@
     <img 
         src="http://img.shields.io/badge/-GitHub.io-222222?style=stylefor-the-badge&logo=github&logoColor=FAFAFA&link=https://www.instagram.com/js.xee/"/>
   </a>
+  <p>
   <a href="https://velog.io/@junnn0021">
     <img 
         src="http://img.shields.io/badge/-Velog-20C997?style=stylefor-the-badge&logo=Velog&logoColor=FAFAFA&link=https://velog.io/@junnn0021"/>
