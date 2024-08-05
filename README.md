@@ -2,11 +2,7 @@
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&text=Welcome%20to%20Junnn0021's%20GitHub%20😀&animation=twinkling&fontSize=48&fontAlignY=30&fontAlign=50&height=160)
   
-  #### 반갑습니다! 🙌
-  #### 저는 DevOps 문화를 즐기며 배우고 있는 이준석입니다!
-  
-  <br>
-  
+
  ## I've ever used
   <img src="https://img.shields.io/badge/Linux-FCC624?style=stylefor-the-badge&logo=Linux&logoColor=000000"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=stylefor-the-badge&logo=Amazon AWS&logoColor=FAFAFA"/>
