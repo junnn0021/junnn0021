@@ -1,6 +1,7 @@
 <div align="center">
-  
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&text=Welcome%20to%20Junnn0021's%20GitHub%20😀&animation=twinkling&fontSize=48&fontAlignY=30&fontAlign=50&height=160)
+  <br>
+  <br>
+
   
 
  ## I've ever used
