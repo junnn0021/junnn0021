@@ -7,7 +7,7 @@
 
  ## I've ever used
   <img src="https://img.shields.io/badge/Linux-FCC624?style=stylefor-the-badge&logo=Linux&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=stylefor-the-badge&logo=Amazon AWS&logoColor=FAFAFA"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=stylefor-the-badge&logo=Amazon Web Services&logoColor=FAFAFA"/>
   <img src="https://img.shields.io/badge/GCP-4285F4?stylefor-the-badge&logo=Google Cloud&logoColor=FAFAFA"/>
   <img src="https://img.shields.io/badge/Apache-D22128?stylefor-the-badge&logo=Apache&logoColor=FAFAFA"/>
   <img src="https://img.shields.io/badge/Tomcat-F8DC75?stylefor-the-badge&logo=Apache Tomcat&logoColor=000000"/>
